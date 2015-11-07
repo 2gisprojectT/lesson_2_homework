@@ -45,9 +45,9 @@
         9.2.	 форма обратной связи
         9.3.	 упорядоченные статьи по темам
         9.4.	 поиск по статьям
-    10.	 Оплата билетов на сайте
+    10.	Оплата билетов на сайте
 
-3. MindMap - ссылка: https://www.mindmup.com/#m:g10B4yQ0SYi8gVCSWIxdElhTnZFOE0
+3. MindMap - ссылка: https://atlas.mindmup.com/2015/11/894a0db0678b0133bacb0013b2e5487e/one_two_trip/index.html
 
 
 
