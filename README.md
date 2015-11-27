@@ -3,14 +3,17 @@
 
  http://2gis.ru/
  
- не стал выбирать какой-то отдельный блок для полной декомпозиции, попытался разобрать весь сайт:
+ майндмап сайта(исправленный):
  
  https://coggle.it/diagram/Vkvgcgtm3gc8yu4F
+ 
+ майндмап поиска:
+ 
+ https://coggle.it/diagram/Vlg2WTQQt-1IiucQ
 
 # Задание №2
 
-разобрал поиск, пытался покрыть полностью, но чем дальше заходил, тем больше всего нужно было рассмотреть, и в общем дошел до какого-то, как мне показалось, логического завершения, но если что-то надо доразобрать, готов доделать
 
-https://projectt2015.testrail.net/index.php?/suites/view/12&group_by=cases:section_id&group_id=92&group_order=asc
+https://projectt2015.testrail.net/index.php?/suites/view/12&group_by=cases:section_id&group_id=164&group_order=asc
 
 
